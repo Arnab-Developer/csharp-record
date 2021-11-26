@@ -1,5 +1,4 @@
-﻿using System;
-using ConsoleApp1;
+﻿using ConsoleApp1;
 using static System.Console;
 
 Student s1 = new(1, "jon");
